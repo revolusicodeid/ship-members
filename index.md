@@ -12,7 +12,7 @@ This project was build with Vanilla Javascript
 2. Open terminal or powershell at same path directory
 3. run `node shipMembers`
 
-### Challange
+### Challenge
 
 Another Titanic is about to sink. There are [n] numbers of people aboard the ship. Each person has a
 property of name and age. The captain of the ship gives an order to evacuate and list the names of the
